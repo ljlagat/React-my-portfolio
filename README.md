@@ -15,5 +15,6 @@ Firestore: NoSQL cloud database to store the portfolio data.
 CSS: For basic styling and layout.
 
 Author : Lucy Lagat
-Project accessible from:
+Project accessible from:localhost:3000
 Can be cloned from : https://github.com/ljlagat/React-my-portfolio.git
+Link live on :https://ljlagat.github.io/React-my-portfolio/
