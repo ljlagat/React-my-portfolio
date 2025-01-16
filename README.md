@@ -6,3 +6,14 @@ Admin Dashboard: Admin can log in using Firebase Authentication and manage the p
 Firestore Database: Data (projects, skills, bio) is stored and retrieved in real-time from Firestore.
 Authentication: Admin must log in using pre-created credentials (no sign-up functionality).
 Responsive: The portfolio is designed to be mobile-friendly and can be accessed across various devices.
+
+Technologies Used
+React: JavaScript library for building the user interface.
+Firebase: Backend services for authentication and database (Firestore).
+react-firebase-hooks: Firebase hooks to simplify Firebase integration with React.
+Firestore: NoSQL cloud database to store the portfolio data.
+CSS: For basic styling and layout.
+
+Author : Lucy Lagat
+Project accessible from:
+Can be cloned from : https://github.com/ljlagat/React-my-portfolio.git
