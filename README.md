@@ -16,5 +16,5 @@ CSS: For basic styling and layout.
 
 Author : Lucy Lagat
 Project accessible from:localhost:3000
-Can be cloned from : https://github.com/ljlagat/React-my-portfolio.git
-Link live on :https://ljlagat.github.io/React-my-portfolio/
+
+Link live on :https://ljlagat.github.io/React-my-portfolio/Can be cloned from : https://github.com/ljlagat/React-my-portfolio.git
