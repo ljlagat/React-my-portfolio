@@ -1,9 +1,11 @@
 {
   "name": "firestore-portfolio",
   "version": "0.1.0",
+  "homepage": "https://username.github.io/repository-name",
   "private": true,
   "dependencies": {
     "firebase": "^9.0.0",
+    "gh-pages": "^6.3.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-firebase-hooks": "^5.1.1",
@@ -12,6 +14,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
