@@ -1,7 +1,7 @@
 {
   "name": "firestore-portfolio",
   "version": "0.1.0",
-  "homepage": "https://username.github.io/repository-name",
+  "homepage": "https://ljlagat.github.io/React-my-portfolio/",
   "private": true,
   "dependencies": {
     "firebase": "^9.0.0",
